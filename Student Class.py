@@ -1,4 +1,4 @@
-class GradingSystem():
+class students():
     def __init__(self,student_id,name,course,grade1,grade2,grade3,grade4):
         self.student_id = student_id
         self.name = name
