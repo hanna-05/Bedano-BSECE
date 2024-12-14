@@ -1,4 +1,4 @@
-class Inventory:
+class product():
     def __init__(self, product_id, name, product_description, price, quantity):
         self.product_id = product_id
         self.name = name
